@@ -1,0 +1,20 @@
+{
+  "name": "nodefiles",
+  "version": "12.19.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "(https://github.com/Piyush-Narsinghani/Intro-To-Node.git)",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush-Narsinghani/Intro-To-Node.git"
+  },
+  "author": "Piyush Narsinghani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piyush-Narsinghani/Intro-To-Node/issues"
+  },
+  "homepage": "https://github.com/Piyush-Narsinghani/Intro-To-Node#readme"
+}
